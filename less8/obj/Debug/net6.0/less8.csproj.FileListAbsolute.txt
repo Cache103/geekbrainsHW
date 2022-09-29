@@ -1,0 +1,15 @@
+E:\homeWork\less8\bin\Debug\net6.0\less8.exe
+E:\homeWork\less8\bin\Debug\net6.0\less8.deps.json
+E:\homeWork\less8\bin\Debug\net6.0\less8.runtimeconfig.json
+E:\homeWork\less8\bin\Debug\net6.0\less8.dll
+E:\homeWork\less8\bin\Debug\net6.0\less8.pdb
+E:\homeWork\less8\obj\Debug\net6.0\less8.csproj.AssemblyReference.cache
+E:\homeWork\less8\obj\Debug\net6.0\less8.GeneratedMSBuildEditorConfig.editorconfig
+E:\homeWork\less8\obj\Debug\net6.0\less8.AssemblyInfoInputs.cache
+E:\homeWork\less8\obj\Debug\net6.0\less8.AssemblyInfo.cs
+E:\homeWork\less8\obj\Debug\net6.0\less8.csproj.CoreCompileInputs.cache
+E:\homeWork\less8\obj\Debug\net6.0\less8.dll
+E:\homeWork\less8\obj\Debug\net6.0\refint\less8.dll
+E:\homeWork\less8\obj\Debug\net6.0\less8.pdb
+E:\homeWork\less8\obj\Debug\net6.0\less8.genruntimeconfig.cache
+E:\homeWork\less8\obj\Debug\net6.0\ref\less8.dll
